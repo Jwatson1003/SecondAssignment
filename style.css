@@ -1,0 +1,27 @@
+/* The Style for My Body Code i.e the background */
+body {
+  background-image: url('coleface.png');
+  /* Background cover allows me to fit the background image onto the screen. */
+  background-size: cover;
+  font-family: serif;
+}
+/* Setting Parameters for the style for the quote 1*/
+h1{
+  color: white;
+  Font-size: 50px;
+  font-family: cursive;
+  text-align: right;
+}
+/* Setting Parameters for style of quote 2 */
+h2 {
+  color: white;
+  Font-size: 30px;
+  font-family: cursive;
+  text-align: right;
+  text-emphasis: white:
+}
+/* Any code that uses the a syntax(The URLS) will have this style */
+a{
+  color: lightblue;
+  font-size: 40px
+}
